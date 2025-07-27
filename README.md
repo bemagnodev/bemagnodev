@@ -14,7 +14,7 @@
 
 ---
 
-Desenvolvedor Full-Stack e estudante de Ciência da Computação na UFRJ (CR 8.8). Tenho mais de 1 ano de experiência corporativa e 6 anos de experiência com programação, atuando principalmente com Python, Django e React. 
+Desenvolvedor Full-Stack e estudante de Ciência da Computação na UFRJ. Tenho mais de 1 ano de experiência corporativa e 6 anos de experiência com programação, atuando principalmente com Python, Django e React. 
 
 Atualmente, meu foco é aprofundar meus conhecimentos e aplicar minhas habilidades em desafios na área de Ciência de Dados.
 
